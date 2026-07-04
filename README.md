@@ -62,25 +62,6 @@ Worked on three projects strengthening Python and GUI development skills.
 
 ---
 
-### 📜 Certifications & Badges
-
-**NPTEL**
-- Privacy and Security in Online Social Media — IIIT Hyderabad *(Jan–Apr 2025)*
-- Big Data Computing — IIT Kanpur *(Aug–Oct 2025)*
-- English Language and Literature — IIT Madras *(Jan–Apr 2024)*
-
-**Hackathons**
-- G-K Hackathon — Google Cloud, Karunya Institute *(Oct 2025)*
-- Smart India Hackathon (SIH) 2025 — Internal Round, Karunya Institute *(Sep 2025)*
-- INTEL Gen AI Hackathon — Intel | KPR Institute *(Oct 2024)*
-
-**Industry Certifications**
-- SnowPro Associate: Platform Certification — Snowflake *(Oct 2025)*
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate — Oracle *(Sep 2025)*
-- Google AI Essentials — Google/Coursera *(Oct 2024)*
-- Google Cybersecurity Jam — Google/Coursera *(Mar 2024)*
-
----
 
 ### 📫 Get In Touch
 
